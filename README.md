@@ -51,4 +51,4 @@ To wrap it all up, we’ll be using Scala Test and MockFactory to unit test our 
 * [Part 2](Building-A-RESTful-API-With-Scala-Play/Part2.md) 
 * [Part 3](Building-A-RESTful-API-With-Scala-Play/Part3.md) 
 * [Part 4](Building-A-RESTful-API-With-Scala-Play/Part4.md)
-* [Part 5](Building-A-RESTful-API-With-Scala-Play/Part5.md)
+* [Part 5](Building-A-RESTful-API-With-Scala-Play/Part5.md)!
